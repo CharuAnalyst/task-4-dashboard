@@ -32,6 +32,9 @@ Task-4-Dashboard.pbix
 
 ![Dashboard](Screenshots/dashboard.png)
 
+## 📊 Power BI Dashboard File
+[Click here to view/download dashboard](https://drive.google.com/file/d/17yxIL2qJmWbvxQZDZ13sMXtLHxAGFxKs/view?usp=sharing)
+
 ✅ Conclusion
 
 This dashboard provides clear and meaningful insights into business performance.
